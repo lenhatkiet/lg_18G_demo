@@ -764,6 +764,7 @@ button,
   cursor: pointer;
   outline: 0;
   font-weight: 300;
+
   @include vendor(
     "transition",
     (

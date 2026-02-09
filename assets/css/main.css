@@ -2379,6 +2379,11 @@ header .icon.circled {
   text-align: center;
   font-size: 1.25em;
   padding: 0;
+  opacity: 0.6;
+}
+
+#header .button:hover {
+  opacity: 1;
 }
 
 #header hr {
@@ -2394,7 +2399,7 @@ header .icon.circled {
 }
 
 #header footer {
-  margin: 1em 0 0 0;
+  margin: 13em 0 0 0;
 }
 
 body.homepage #header {
